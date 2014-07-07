@@ -1,0 +1,12 @@
+# Site settings
+title: TQuizzle.com
+email: your-email@domain.com
+description: "ramblings, utterances, nonsense...mylife."
+baseurl: ""
+url: "http://www.tquizzle.com"
+twitter_username: tquizzle
+github_username:  tquizzle
+
+# Build settings
+markdown: kramdown
+permalink: pretty
