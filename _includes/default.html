@@ -98,7 +98,7 @@
 		<footer>
 			<hr/>
 			<p>
-				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} with Jekyll. Theme: <a href="https://github.com/dbtek/dbyll">dbyll</a> by dbtek.
+				&copy; 1997 - {{ site.time | date: '%Y' }} {{ site.author.name }} | Big Up to GitHub
 			</p>
 		</footer>
 	</div>
@@ -106,5 +106,6 @@
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/bootstrap/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/js/app.js"></script>
+	{% include analytics.html %}
 </body>
 </html>

@@ -2,13 +2,15 @@
 
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
 highlighter: true
 markdown: kramdown
 url: "http://www.tquizzle.com"
 permalink: /archive/:title/
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 title: TQuizzle.com
+google_analytics_key: UA-253329-3
+
+
 defaults:
   -
     scope:
