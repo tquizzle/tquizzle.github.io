@@ -1,7 +1,8 @@
 # Site settings
-title: TQuizzle.com
+title: TQuizzle
 #email: your-email@domain.com
 description: "ramblings, utterances, nonsense."
+baseurl: ""
 url: "http://www.tquizzle.com"
 twitter_username: tquizzle
 github_username:  tquizzle
@@ -9,5 +10,4 @@ github_username:  tquizzle
 # Build settings
 markdown: kramdown
 permalink: pretty
-highlighter: true
-exclude: [LICENSE, CNAME, README.md, .gitignore]
+highligher: true
