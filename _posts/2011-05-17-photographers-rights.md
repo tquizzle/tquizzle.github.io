@@ -23,7 +23,6 @@ tags:
 I recently came across these and I&#8217;m not entirely sure where it was. I&#8217;m sure it was when I was geeking out over some fantastic photography equipment that I want.
 
 Nonetheless, these little rules where worth copy/pasting for future reference. So just uncovering them again, I figured I&#8217;d just post them out to the blog where a good maybe 3 to 4 people might read them.  
-<!--more-->
 
   
 So now I present to you, the USA&#8217;s Photographer&#8217;s Rights:

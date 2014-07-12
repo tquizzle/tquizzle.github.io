@@ -43,8 +43,6 @@ I actually read about this little feature a while back&#8230;like almost a year 
 
 Recently though, I wanted to embed a PDF into a webpage and remembered seeing <a rel="nofollow" target="_blank" href="http://googlesystem.blogspot.com/2009/09/embeddable-google-document-viewer.html">this article</a> from last year. I immediately went out to create a simple, useful function to be able to use this in WordPress.
 
-<!--more-->
-
 After jacking with the code for a bit, I ran it by <a rel="nofollow" target="_blank" href="http://justinshattuck.com">Shat</a> who always helps fix up my code. He tweaked it, and stripped out extraneous code that I had to make it easier to use. Thus, Shat and I present the Google Document Viewer functions hack.
 
 Add this to your functions.php file and you&#8217;re in business to use the Google Document Viewer shortcode to display a PDF, PPT, or a TIFF file inline.

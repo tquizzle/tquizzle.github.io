@@ -37,7 +37,6 @@ For some reason or another, I never figured out until today digging through the 
 This started with a task I had for <a rel="nofollow" target="_blank" href="http://www.makeuseof.com">MakeUseOf.com</a> to include RSS feeds for the author pages. After digging into it, I found it was quite easy and it uses the Magpierss code almost exactly.
 
 All you really have to do is insert a little code in the template file you want to use (or a page or post using one of many php inclusion plugins for WordPress).  
-<!--more-->
 
   
 Insert this into the top of the file, post or page as it sets up the RSS parser:

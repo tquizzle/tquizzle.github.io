@@ -34,6 +34,7 @@ tags:
   - router
   - VxWorks
   - wireless
+  
 ---
 <div class="mceTemp">
 </div>
@@ -49,8 +50,6 @@ For some time, I&#8217;ve thought of pimping out the Linksys <a rel="nofollow" t
 I had Del.icio.us&#8217;d Adam Pash&#8217;s <a rel="nofollow" target="_blank" href="http://lifehacker.com/software/router/hack-attack-turn-your-60-router-into-a-600-router-178132.php">wonderful Lifehacker article </a>on how to hack your router with Linux, but with all the notices and warnings of the potential to permanently trash your router, I was a bit reluctant to even start this project. Alas I pressed on and am truly happy that I&#8217;d done so.
 
 Adam&#8217;s article was a great starting point, but the model he used was slightly different from mine.&nbsp; The more reading I did, the more I realized that&nbsp;I have to get this right the first time.
-
-<!--more-->
 
 For me, the process went down like this:
 

@@ -20,7 +20,6 @@ tags:
   - people
 ---
 I have been struggling with writing about this topic for quite some time. It seems like when I am more personally affected by a lack of communication between myself and friends, family, coworkers, etc. I get more and more frustrated. I think what bothers me most is that I&#8217;m guilty of this too but when it happens to me, I don&#8217;t like it.  
-<!--more-->
 
 ### The Problem
 

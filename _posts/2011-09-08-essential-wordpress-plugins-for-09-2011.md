@@ -37,7 +37,6 @@ tags:
 A friend started out today asking me if I had time for some WordPress input&#8230;specifically regarding backups and related plugins. I though to myself, maybe I should write up a small email to my buddy and mention all the plugins I think are essential. I did and that led to me thinking&#8230;&#8221;I should put this out for others.&#8221; He thought the same thing and suggested I turn it into something on my site.
 
 So, I put some time into this list. I only suggest the plugins I think are the best in their respective categories, so with that, let the list begin.  
-<!--more-->
 
 ### SEO
 

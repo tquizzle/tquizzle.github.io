@@ -24,11 +24,6 @@ Saturday night while watching UFC 104 over at @tshaiebly&#8217;s, many of us in 
 
 Apparently, UFC Pres. Dana White felt like Shogun won too. That&#8217;s one thing about Dana White, he&#8217;ll tell you what he really thinks and you got to love that. When asked about another fight, a controversial call by veteran Ref Steve Mazzagatti, White said he that he &#8220;shouldn&#8217;t even be allowed to watch MMA, let alone referee it.&#8221;
 
-(video after the jump)  
-<!--more-->
-
-<div class="video">
-</div>
 
 At least there&#8217;s a Machida / Rua rematch coming&#8230;
 

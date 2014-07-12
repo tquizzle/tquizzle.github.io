@@ -35,7 +35,7 @@ tags:
   - theme
   - Thumbnails
   - TimThumb
-  - wordp
+  - wordpress
 ---
 For a primer, you should check out my [previous post][1] on this topic. There will be some referencing it in this post.
 
@@ -43,7 +43,6 @@ It&#8217;s been a couple of years since that post and many things have changed.
 The theme <a rel="nofollow" target="_blank" href="http://fthrwght.com/autofocus/">AutoFocus</a> has gone through a number of changes. Alan has released a &#8220;Pro&#8221; (paid) version of the theme with tons of enhancements. He&#8217;s also stayed fairly current on releasing updates to the theme. Now both the lite and pro versions are at version 2.0.2 and come with some bells & whistles that just weren&#8217;t available when I started using Autofocus.
 
 Even with all of those updates, enhancements, etc&#8230; I just didn&#8217;t like the direction AutoFocus was going. I was stuck in its 1.x days and loving the way it worked. I love the simplicity, lack of widgets, and overall minimalistic view of the theme. Needless to say, I never upgraded. I&#8217;ve made my own modifications to the theme throughout the time I&#8217;ve had it, and I like it just the way it is.  
-<!--more-->
 
 ### The New Issues
 

@@ -46,7 +46,6 @@ After just a few months, I ran into a problem with the MacBook. It had a small h
 
 Iâ€™ve got instructions & pictures of how to swap out a MacBook hard drive after the jump.
 
-<!--more-->
 
 To swap out a hard drive, it really doesnâ€™t take much time or effort. Just some finger crossing and relying hard on your previous backups. The route I chose isnâ€™t the only way to restore data, but it worked out beautifully for me.
 

@@ -35,20 +35,18 @@ tags:
   - Thesis
   - WordPress
 ---
-<img src="http://i1.wp.com/www.tquizzle.com/uploads/2010/04/search_engines-300x293.jpg?fit=300%2C293" alt="" title="Search Engines" class="alignright size-medium wp-image-602" data-recalc-dims="1" /><a rel="nofollow" target="_blank" href="http://www.pearsonified.com/">Chris Pearson</a> is a stud when it comes to all things web, not to mention the guy&#8217;s relentless pursuit of wordpress goodness keeps me coming back to his blog again and again.  
+<img src="/uploads/2010/04/search_engines-300x293.jpg?fit=300%2C293" alt="" title="Search Engines" class="alignright size-medium wp-image-602" data-recalc-dims="1" /><a rel="nofollow" target="_blank" href="http://www.pearsonified.com/">Chris Pearson</a> is a stud when it comes to all things web, not to mention the guy&#8217;s relentless pursuit of wordpress goodness keeps me coming back to his blog again and again.  
 Yesterday morning, <a rel="nofollow" target="_blank" href="http://diythemes.com/thesis/robots-meta-tags/">a post from him via DIYThemes.com</a> grabbed my attention. It was all about how to use the Robots Meta Tags option in the very popular theme <a rel="nofollow" target="_blank" href="http://diythemes.com/plans/">Thesis</a>. While I dont use Thesis, I still found it extremely interesting and started to investigate its declaration:
 
 > One of the biggest problems with WordPress is that it automatically generates different kinds of archive pages that can be indexed by search engines. From date-based archives (daily, monthly, yearly) to tags to categories, these auto-generated pages all contain duplicate content that doesnâ€™t belong in search engines.
 
 Like many times before, he&#8217;s exactly right.  
-<!--more-->
-
   
 Maybe you don&#8217;t think its a big deal. Okay, I get that&#8230;but think of this:
 
-> The job of search engines is to index your siteâ€™s pages and determine what your site is about. If you have 100 unique article pages, then ideally, search engines should only have to crawl 100 pages to index your site fully.
+> The job of search engines is to index your site's pages and determine what your site is about. If you have 100 unique article pages, then ideally, search engines should only have to crawl 100 pages to index your site fully.
 > 
-> However, if youâ€™re using categories, tags, and date-based archives (and depending on how overboard you tend to go with categorization and tagging), then youâ€™re going to have at least one additional page per category, per tag, per month, etc.
+> However, if you're using categories, tags, and date-based archives (and depending on how overboard you tend to go with categorization and tagging), then youâ€™re going to have at least one additional page per category, per tag, per month, etc.
 > 
 > Now, instead of having 100 pages to index, you may have 600 pages. Considering you only have 100 pages of unique content, forcing a search engine to index 600 pages to determine what your site is about just doesnâ€™t make any sense.
 > 

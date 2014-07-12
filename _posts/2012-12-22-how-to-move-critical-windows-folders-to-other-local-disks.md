@@ -34,7 +34,7 @@ tags:
   - Windows 7
   - windows administration
 ---
-[<img src="http://i1.wp.com/www.tquizzle.com/uploads/2012/12/Moving-Users-and-Prog-Files-300x192.png?fit=300%2C192" alt="Moving Users and Prog Files" class="alignleft size-medium wp-image-11576" data-recalc-dims="1" />][1]If you&#8217;ve ever needed or tried to move the C:&#92;Users directory or other default Windows® directories to another place other than the default one, you know it can be quite difficult.
+[<img src="/uploads/2012/12/Moving-Users-and-Prog-Files-300x192.png?fit=300%2C192" alt="Moving Users and Prog Files" class="alignleft size-medium wp-image-11576" data-recalc-dims="1" />][1]If you&#8217;ve ever needed or tried to move the C:&#92;Users directory or other default Windows® directories to another place other than the default one, you know it can be quite difficult.
 
 I&#8217;ve tried to Google this, and talk to others about doing it. What seemed to be such a simple request also seemed to be difficult to pull off. That&#8217;s when a brilliant (nearly the smartest man I know) told me about<a rel="nofollow" target="_blank" title="Hard Links and Junctions" href="http://msdn.microsoft.com/en-us/library/windows/desktop/aa365006(v=vs.85).aspx"> hard links & junction links</a> in windows. Think of them like symbolic links in Mac or *nix systems.
 
@@ -44,7 +44,6 @@ I&#8217;ve tried to Google this, and talk to others about doing it. What seemed 
 The great thing about using hard links in Windows is that it acts as if the data is still there. In the example above, when you&#8217;re browsing C:&#92;dira the system will act as if you&#8217;re really in that directory when in all reality you&#8217;re browsing C:&#92;dirb. Even the address bar will show that.
 
 Thanks to an almost 3-year-old post on&nbsp;<a rel="nofollow" target="_blank" title="Move the Users Directory in Windows 7" href="http://lifehacker.com/5467758/move-the-users-directory-in-windows-7">Lifehacker</a>, I accomplished what I thought was only possible with tons of registry tweaking and tons of time spent in Safe Mode with a potentially unstable system afterward.  
-<!--more-->
 
 ### Real Reason Why
 

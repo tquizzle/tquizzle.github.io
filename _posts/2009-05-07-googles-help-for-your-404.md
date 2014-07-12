@@ -32,7 +32,6 @@ Since users need to find what they&#8217;re looking for within 7 seconds to avoi
 *   It adds a search box for your site with appropriate search suggestions.
 *   It tries to provide alternatives to incorrect URLs.
 
-<!--more-->
 
   
 So to make this thing a little more WP friendly, I added the `<?php bloginfo('url'); ?>` to that `GOOG_FIXURL_SITE` variable in the script and shebang, it&#8217;s working like a charm. Now, add it to your 404.php file in your template directory and users might thank you.

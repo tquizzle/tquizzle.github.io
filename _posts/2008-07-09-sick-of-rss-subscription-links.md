@@ -27,7 +27,6 @@ It&#8217;s those small, but annoying boxes bloggers are putting in their blog co
 
 If I want to subscribe to your feed, I know what to do. I&#8217;m kinda smart. If you&#8217;re content is so engaging that I can&#8217;t NOT subscribe (double-negative I know, but it helps the point), then I will&#8230;but its not because you suggested it. Its because you&#8217;re site has &#8220;*RSS Staying Power*&#8221; (new term I just coined). Its because I can learn something from your site and enjoy the way you communicate ideas and knowledge. Not because you want me to.
 
-<!--more-->
 
 But begging me to subscribe or sliding a request box into your content is not the way to win my subscription. It only annoys the crap out of me.
 

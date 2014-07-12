@@ -21,7 +21,6 @@ Obviously we all know that Wal-Mart brings out the best in all people. It has to
 A co-worker of mine shared this little gem, and I thought it was absolutely hilarious. I can just think of the times I&#8217;ve been to Wal-Mart recently and thinking that I would&#8217;ve Bingo&#8217;d easy in a matter of minutes.
 
 Take this with you during your next trip&#8230;and yell out &#8220;Bingo&#8221; when you win. Its not so much that you won or anything&#8230;but a fun game that probably leave you in stitches.  
-<!--more-->
 
   
 <img src="http://i1.wp.com/www.tquizzle.com/uploads/2009/08/Wal-Mart_Bingo.png?fit=527%2C678" alt="Wal-Mart Bingo" title="Wal-Mart Bingo" class="aligncenter size-full wp-image-324" data-recalc-dims="1" />

@@ -30,7 +30,6 @@ As luck would have it&#8230;the client doesn&#8217;t work under Windows 7. Blast
 With Google and a little patience, I got it working again &#8211; for the first time.<a rel="shadowbox" href="http://i2.wp.com/www.tquizzle.com/uploads/2009/08/ESX.jpg"><img src="http://i0.wp.com/www.tquizzle.com/uploads/2009/08/ESX-300x212.jpg?fit=300%2C212" alt="ESX" title="ESX" class="alignright size-medium wp-image-339" data-recalc-dims="1" /></a>
 
 Here&#8217;s a little rundown of how to get VMWare&#8217;s latest client product to work under Windows 7:  
-<!--more-->
 
   
 For starters, your system needs a file from Microsoft&#8217;s .NET Framework on an earlier system of Windows. *I got mine from an XP machine.*

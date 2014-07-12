@@ -14,8 +14,6 @@ categories:
 ---
 Since Internet access costs $12.99 per day and I was trying to enjoy myself while trying to not spend time in email and recording thoughts, I felt the need to jot down a few thoughts on the recent trip to Las Vegas.
 
-<!--more-->
-
 ### Day 1 &#8211; Long Day
 
 Today was filled with cramming a few extras into the suitcases my wife made me pre-pack the night before as well as preparing myself for a 2.5 hour flight. I&#8217;m not a good airplane passenger, and this experience wasn&#8217;t terrible. With the exception of being a large man in coach, it wasn&#8217;t too bad.

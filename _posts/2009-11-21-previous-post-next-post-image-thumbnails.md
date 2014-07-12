@@ -45,9 +45,7 @@ My <a rel="nofollow" target="_blank" href="http://photos.tquizzle.com/">photoblo
 
 I noticed something wasn&#8217;t right and I had one gripe about it&#8230;on single pages it lacked a bit of class and touch that I think photoblogs should have. Mainly I was looking for a previous/next thumbnail support when it displayed previous and next navigation links under the content. I thought that would be a perfect place to put these little gems.
 
-By default, Autofocus theme puts the navigation to the previous and next posts underneath your content photo. Makes perfect sense, but I figured it&#8217;s a friggin photo blog, why not display the previous/next available photo too?  
-<!--more-->
-
+By default, Autofocus theme puts the navigation to the previous and next posts underneath your content photo. Makes perfect sense, but I figured it&#8217;s a friggin photo blog, why not display the previous/next available photo too?
   
 <img src="http://i2.wp.com/www.tquizzle.com/uploads/2009/11/Picture-3.png?fit=505%2C152" alt="Boring Previous/Next" title="Boring Previous/Next" class="aligncenter size-full wp-image-418" data-recalc-dims="1" />
 

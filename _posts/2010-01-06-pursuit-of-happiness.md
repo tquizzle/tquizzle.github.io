@@ -26,7 +26,6 @@ tags:
 The pursuit of happiness is something this nation knows all about. Life, liberty, and the pursuit of it is what every American wishes to obtain. Unfortunately, I believe that a lot of Americans arenâ€™t happy and/or canâ€™t find a path to happiness that suits them and their needs. Itâ€™s so unfortunate that in the land of plenty, few are genuinely happy.
 
 In ancient times, the people of the world didnâ€™t have a lot of the things that we have today and ultimately take for granted. Even though the Bible and our history books have taught us that these ancient people werenâ€™t always happy, they seem to have gotten by just fine. So apparently, the things that the human race has created over time havenâ€™t made us any happier. Sure, these things were made for our conveniences, and some really do help us out, but they havenâ€™t succeeded in elevating our level of true happiness or created any more time for us. And certainly our happiness hasnâ€™t decreased due to lack of things, or even lack of money.  
-<!--more-->
 
   
 ### Cause of Unhappiness
