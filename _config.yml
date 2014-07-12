@@ -1,0 +1,34 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: true
+markdown: kramdown
+url: "http://www.tquizzle.com"
+permalink: /archive/:title/
+exclude: [LICENSE, CNAME, README.md, .gitignore]
+title: TQuizzle.com
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: TQuizzle.com
+
+description: "ramblings, utterances, nonsense."
+author:
+  name: TQuizzle
+  #email: dbyll@ismaildemirbilek.com
+  github: TQuizzle
+  twitter: TQuizzle
+  #pinterest: asd123
+  #linkedin: asd123
+  #bio: Your stylish, minimalist theme!
+  email_md5: 9ff9176cb3c383c60d7d91bf0dce141e
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
