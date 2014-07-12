@@ -11,19 +11,21 @@ bitly_hash:
 bitly_long_url:
   - http://www.tquizzle.com/about/
 ---
-<img id="image25" src="/images/TQ_Cartoon_small.jpg" alt="Me...the Comic Version" class="alignright" style="background:transparent !important;" data-recalc-dims="1" />Well, here it is...my about page.
+<img id="image25" src="http://i0.wp.com/www.tquizzle.com/images/TQ_Cartoon_small.jpg" alt="Me...the Comic Version" class="alignright" style="background:transparent !important;" data-recalc-dims="1" />Well, here it is&#8230;my about page.
 
 I feel like sometimes its fun to read about others, their personal thoughts and what goes on in their lives online. This is just the place for that. My thoughts are very scattered but occasionally written here. I hope you enjoy it as much as I enjoy sharing it.
 
-I'm a 31 year-old man from Tulsa, Oklahoma currently working my ass off to try to get ahead in life. I just have to make sure I don' go too fast. I'm constantly busy, but I know the sacrifices I'm making now will make a huge difference for myself, my wife and my children later in life.
+I&#8217;m a 31 year-old man from Tulsa, Oklahoma currently working my ass off to try to get ahead in life. I just have to make sure I don&#8217; go too fast. I&#8217;m constantly busy, but I know the sacrifices I&#8217;m making now will make a huge difference for myself, my wife and my children later in life.
 
-I have a wonderful wife who encourages, challenges and complements me perfectly. There's no one else in this world who could do this.
+I have a wonderful wife who encourages, challenges and complements me perfectly. There&#8217;s no one else in this world who could do this.
 
-Computers have become more than just a hobby. I wasn't really that interested in computers when I started working on them, yet somehow I've turned it into a career both day and night. I work as a Senior Network Engineer for a major Health System from 8-5 and I also contract web design and development work in my spare time.
+Computers have become more than just a hobby. I wasn&#8217;t really that interested in computers when I started working on them, yet somehow I&#8217;ve turned it into a career both day and night. I work as a &#8220;Network Engineer&#8221; for a major Health System from 8-5 and I also contract web design and development work in my spare time focusing on Web Standards and hacking to death the amazingly brilliant <a rel="nofollow" target="_blank" href="http://wordpress.org">WordPress</a> application.
 
 I also love martial arts. I am a former senior student under the instruction of Sensei Nicholas Guinn at <a rel="nofollow" target="_blank" href="http://www.guinnmartialarts.com">Guinn Martial Arts</a>. While I currently only take <a rel="nofollow" target="_blank" href="http://www.aikitulsa.com/">AikiJitsu</a>, I am very interested in many arts including but not limited to <a rel="nofollow" target="_blank" href="http://www.capoeira.com/">Capoeira</a>, Judo, Jujitsu and <a rel="nofollow" target="_blank" href="http://www.hawaiianlua.com/">Lua</a>.
 
-I also have a passion to teach. I'm not sure exactly what it is that I'd like to teach, but I feel that I have a gift of communicating knowledge and I have to share it with someone. We'll see how that plays out through time.
+My overall goal in life are to end up owning or running a successful company that only requires me to work 15 hours or less so that I have ample amounts of time to spend with my family. I know that&#8217;s far fetched, but hey&#8230;at least its honest.
+
+I also have a passion to teach. I&#8217;m not sure exactly what it is that I&#8217;d like to teach, but I feel that I have a gift of communicating knowledge and I have to share it with someone. We&#8217;ll see how that plays out through time.
 
 Now you know a little more about me. Please click around on my site to learn even more or just click on a few ads that help keep this site afloat. Thanks for making it here.
 
