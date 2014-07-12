@@ -9,6 +9,7 @@ permalink: /archive/:title/
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 title: TQuizzle.com
 google_analytics_key: UA-253329-3
+description: "ramblings, utterances, nonsense."
 
 
 defaults:
@@ -18,7 +19,6 @@ defaults:
     values:
       title: TQuizzle.com
 
-description: "ramblings, utterances, nonsense."
 author:
   name: TQuizzle
   #email: dbyll@ismaildemirbilek.com
