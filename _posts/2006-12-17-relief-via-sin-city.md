@@ -2,7 +2,7 @@
 title: Relief via Sin City
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/197HY2r
+permalink: /archive/relief-via-sin-city/
 bitly_url:
   - http://bit.ly/197HY2r
 bitly_hash:

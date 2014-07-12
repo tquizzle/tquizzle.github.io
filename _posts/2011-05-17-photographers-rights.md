@@ -2,7 +2,7 @@
 title: 'Photographer&#8217;s Rights'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11zQgK5
+permalink: /archive/photographers-rights/
 image:
   - http://www.tquizzle.com/uploads/2011/05/stockvault-taking-a-picture-with-a-camera112401.jpg
 bitly_url:

@@ -2,7 +2,7 @@
 title: 'Sometimes I sit&#8230;'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11LAwb0
+permalink: /archive/sometimes-i-sit/
 pdrp_attributionLocation:
   - caption
 image:

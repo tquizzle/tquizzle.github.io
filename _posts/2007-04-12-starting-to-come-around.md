@@ -2,7 +2,7 @@
 title: Starting to Come Around
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/13HDs8B
+permalink: /archive/starting-to-come-around/
 bitly_url:
   - http://bit.ly/13HDs8B
 bitly_hash:

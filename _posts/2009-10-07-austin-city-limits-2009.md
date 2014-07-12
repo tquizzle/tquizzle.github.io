@@ -2,7 +2,7 @@
 title: 'Austin City Limits &#8211; 2009'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12KdKne
+permalink: /archive/austin-city-limits-2009/
 bitly_url:
   - http://bit.ly/12KdKne
 bitly_hash:
@@ -40,7 +40,7 @@ All-in-all, the trip to Austin was a blast. I&#8217;m ready for some &#8220;rela
 <div id='gallery-1' class='gallery galleryid-349 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://bit.ly/12KdKne/pict0010/'><img src="http://i1.wp.com/www.tquizzle.com/uploads/2009/10/PICT0010.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Heather and I" data-recalc-dims="1" /></a>
+      <a href='http://www.tquizzle.com/archive/austin-city-limits-2009/pict0010/'><img src="http://i1.wp.com/www.tquizzle.com/uploads/2009/10/PICT0010.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Heather and I" data-recalc-dims="1" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -50,7 +50,7 @@ All-in-all, the trip to Austin was a blast. I&#8217;m ready for some &#8220;rela
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://bit.ly/12KdKne/pict0106/'><img src="http://i2.wp.com/www.tquizzle.com/uploads/2009/10/PICT0106.jpg?resize=150%2C150" class="attachment-thumbnail" alt="ACL 2009 Signage" data-recalc-dims="1" /></a>
+      <a href='http://www.tquizzle.com/archive/austin-city-limits-2009/pict0106/'><img src="http://i2.wp.com/www.tquizzle.com/uploads/2009/10/PICT0106.jpg?resize=150%2C150" class="attachment-thumbnail" alt="ACL 2009 Signage" data-recalc-dims="1" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -60,7 +60,7 @@ All-in-all, the trip to Austin was a blast. I&#8217;m ready for some &#8220;rela
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://bit.ly/12KdKne/pict0009/'><img src="http://i0.wp.com/www.tquizzle.com/uploads/2009/10/PICT0009.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Dr. Dog&#039;s Crowd starting to assemble" data-recalc-dims="1" /></a>
+      <a href='http://www.tquizzle.com/archive/austin-city-limits-2009/pict0009/'><img src="http://i0.wp.com/www.tquizzle.com/uploads/2009/10/PICT0009.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Dr. Dog&#039;s Crowd starting to assemble" data-recalc-dims="1" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -70,7 +70,7 @@ All-in-all, the trip to Austin was a blast. I&#8217;m ready for some &#8220;rela
   
   <br style="clear: both" /><dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://bit.ly/12KdKne/pict0005/'><img src="http://i0.wp.com/www.tquizzle.com/uploads/2009/10/PICT0005.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Random Crowd Shot" data-recalc-dims="1" /></a>
+      <a href='http://www.tquizzle.com/archive/austin-city-limits-2009/pict0005/'><img src="http://i0.wp.com/www.tquizzle.com/uploads/2009/10/PICT0005.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Random Crowd Shot" data-recalc-dims="1" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -80,7 +80,7 @@ All-in-all, the trip to Austin was a blast. I&#8217;m ready for some &#8220;rela
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://bit.ly/12KdKne/pict0024/'><img src="http://i2.wp.com/www.tquizzle.com/uploads/2009/10/PICT0024.jpg?resize=150%2C150" class="attachment-thumbnail" alt="K&#039;Naan" data-recalc-dims="1" /></a>
+      <a href='http://www.tquizzle.com/archive/austin-city-limits-2009/pict0024/'><img src="http://i2.wp.com/www.tquizzle.com/uploads/2009/10/PICT0024.jpg?resize=150%2C150" class="attachment-thumbnail" alt="K&#039;Naan" data-recalc-dims="1" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -90,7 +90,7 @@ All-in-all, the trip to Austin was a blast. I&#8217;m ready for some &#8220;rela
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://bit.ly/12KdKne/pict0060/'><img src="http://i0.wp.com/www.tquizzle.com/uploads/2009/10/PICT0060.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Caleb - No No" data-recalc-dims="1" /></a>
+      <a href='http://www.tquizzle.com/archive/austin-city-limits-2009/pict0060/'><img src="http://i0.wp.com/www.tquizzle.com/uploads/2009/10/PICT0060.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Caleb - No No" data-recalc-dims="1" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -100,7 +100,7 @@ All-in-all, the trip to Austin was a blast. I&#8217;m ready for some &#8220;rela
   
   <br style="clear: both" /><dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://bit.ly/12KdKne/pict0080/'><img src="http://i0.wp.com/www.tquizzle.com/uploads/2009/10/PICT0080.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Caleb & Nathan" data-recalc-dims="1" /></a>
+      <a href='http://www.tquizzle.com/archive/austin-city-limits-2009/pict0080/'><img src="http://i0.wp.com/www.tquizzle.com/uploads/2009/10/PICT0080.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Caleb & Nathan" data-recalc-dims="1" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -110,7 +110,7 @@ All-in-all, the trip to Austin was a blast. I&#8217;m ready for some &#8220;rela
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://bit.ly/12KdKne/pict0091/'><img src="http://i2.wp.com/www.tquizzle.com/uploads/2009/10/PICT0091.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Caleb Closer" data-recalc-dims="1" /></a>
+      <a href='http://www.tquizzle.com/archive/austin-city-limits-2009/pict0091/'><img src="http://i2.wp.com/www.tquizzle.com/uploads/2009/10/PICT0091.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Caleb Closer" data-recalc-dims="1" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -120,7 +120,7 @@ All-in-all, the trip to Austin was a blast. I&#8217;m ready for some &#8220;rela
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://bit.ly/12KdKne/pict0058/'><img src="http://i1.wp.com/www.tquizzle.com/uploads/2009/10/PICT0058.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Caleb and neat lighting" data-recalc-dims="1" /></a>
+      <a href='http://www.tquizzle.com/archive/austin-city-limits-2009/pict0058/'><img src="http://i1.wp.com/www.tquizzle.com/uploads/2009/10/PICT0058.jpg?resize=150%2C150" class="attachment-thumbnail" alt="Caleb and neat lighting" data-recalc-dims="1" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>

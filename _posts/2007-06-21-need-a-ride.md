@@ -2,7 +2,7 @@
 title: Need a Ride?
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/13N3Ht0
+permalink: /archive/need-a-ride/
 bitly_url:
   - http://bit.ly/13N3Ht0
 bitly_hash:

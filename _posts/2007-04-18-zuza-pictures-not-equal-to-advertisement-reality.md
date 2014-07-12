@@ -2,7 +2,7 @@
 title: Zuza + Pictures not equal to Advertisement Reality
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/19a2FL9
+permalink: /archive/zuza-pictures-not-equal-to-advertisement-reality/
 bitly_url:
   - http://bit.ly/19a2FL9
 bitly_hash:

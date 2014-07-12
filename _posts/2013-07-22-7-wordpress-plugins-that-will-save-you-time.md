@@ -2,7 +2,7 @@
 title: 7 WordPress Plugins That Will Save You Time
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1dPTEaw
+permalink: /archive/7-wordpress-plugins-that-will-save-you-time/
 bitly_url:
   - http://bit.ly/1dPTEaw
 bitly_hash:

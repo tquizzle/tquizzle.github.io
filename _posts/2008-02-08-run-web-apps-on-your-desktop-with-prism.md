@@ -2,7 +2,7 @@
 title: Run Web Apps on your Desktop with Prism
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/18GMIPO
+permalink: /archive/run-web-apps-on-your-desktop-with-prism/
 bitly_url:
   - http://bit.ly/18GMIPO
 bitly_hash:

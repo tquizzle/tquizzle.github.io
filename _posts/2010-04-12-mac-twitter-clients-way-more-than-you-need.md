@@ -2,7 +2,7 @@
 title: 'Mac Twitter Clients &#8211; Way More Than You Need'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10hfR0d
+permalink: /archive/mac-twitter-clients-way-more-than-you-need/
 image:
   - 
 bitly_url:

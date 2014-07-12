@@ -2,7 +2,7 @@
 title: 'UFC 104: Shogun Won the Fight'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10lvoMF
+permalink: /archive/ufc-104-shogun-won-the-fight/
 image:
   - 
 bitly_url:

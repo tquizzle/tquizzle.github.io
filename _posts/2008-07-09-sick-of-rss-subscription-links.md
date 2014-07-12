@@ -2,7 +2,7 @@
 title: Sick of RSS Subscription Links
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1aaTwUb
+permalink: /archive/sick-of-rss-subscription-links/
 bitly_url:
   - http://bit.ly/1aaTwUb
 bitly_hash:

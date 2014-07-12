@@ -2,7 +2,7 @@
 title: Must-Have Social Media Plugins for your WordPress Blog
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/18r2PAk
+permalink: /archive/must-have-social-media-plugins-for-your-wordpress-blog/
 image:
   - 
 quote-author:

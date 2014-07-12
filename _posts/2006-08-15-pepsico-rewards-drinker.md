@@ -2,7 +2,7 @@
 title: PepsiCo Rewards Drinker
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12KagkF
+permalink: /archive/pepsico-rewards-drinker/
 bitly_url:
   - http://bit.ly/12KagkF
 bitly_hash:

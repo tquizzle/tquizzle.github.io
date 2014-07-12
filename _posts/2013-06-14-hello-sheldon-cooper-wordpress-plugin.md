@@ -2,7 +2,7 @@
 title: Hello Sheldon Cooper WordPress Plugin
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/197TNpn
+permalink: /archive/hello-sheldon-cooper-wordpress-plugin/
 pdrp_attributionLocation:
   - caption
 image:

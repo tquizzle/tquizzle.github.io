@@ -2,7 +2,7 @@
 title: 'Happy Father&#8217;s Day'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/19aj5Do
+permalink: /archive/happy-fathers-day/
 image:
   - 
 bitly_url:

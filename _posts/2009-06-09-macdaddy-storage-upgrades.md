@@ -2,7 +2,7 @@
 title: MacDaddy Storage Upgrades
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11zOSau
+permalink: /archive/macdaddy-storage-upgrades/
 pdrp_attributionLocation:
   - end
 image:

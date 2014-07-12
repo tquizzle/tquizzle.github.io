@@ -2,7 +2,7 @@
 title: What exactly is a booger?
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11zS2uI
+permalink: /archive/what-exactly-is-a-booger/
 bitly_url:
   - http://bit.ly/11zS2uI
 bitly_hash:

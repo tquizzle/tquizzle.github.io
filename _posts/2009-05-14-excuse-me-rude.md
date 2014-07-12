@@ -2,7 +2,7 @@
 title: Excuse me, Rude!
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/16q3b6H
+permalink: /archive/excuse-me-rude/
 bitly_url:
   - http://bit.ly/16q3b6H
 bitly_hash:

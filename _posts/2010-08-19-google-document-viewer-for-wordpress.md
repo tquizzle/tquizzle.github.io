@@ -2,7 +2,7 @@
 title: Google Document Viewer for WordPress
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10hfRgI
+permalink: /archive/google-document-viewer-for-wordpress/
 image:
   - http://www.tquizzle.com/uploads/2010/08/goo_doc_viewer.jpg
 pdrp_attributionLocation:

@@ -2,7 +2,7 @@
 title: How to Get the Windows 7 Taskbar in Windows XP
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/142OuV8
+permalink: /archive/how-to-get-the-windows-7-taskbar-in-windows-xp/
 bitly_url:
   - http://bit.ly/142OuV8
 bitly_hash:

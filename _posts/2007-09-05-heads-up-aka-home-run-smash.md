@@ -2,7 +2,7 @@
 title: Heads Up aka Home Run Smash
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/17UofWj
+permalink: /archive/heads-up-aka-home-run-smash/
 bitly_url:
   - http://bit.ly/17UofWj
 bitly_hash:

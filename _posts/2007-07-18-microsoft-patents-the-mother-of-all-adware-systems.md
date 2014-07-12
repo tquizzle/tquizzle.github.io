@@ -2,7 +2,7 @@
 title: Microsoft patents the mother of all adware systems
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/124ZmD6
+permalink: /archive/microsoft-patents-the-mother-of-all-adware-systems/
 bitly_url:
   - http://bit.ly/124ZmD6
 bitly_hash:

@@ -2,7 +2,7 @@
 title: Aggrevating Things
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/120ZbnX
+permalink: /archive/aggrevating-things/
 bitly_url:
   - http://bit.ly/120ZbnX
 bitly_hash:

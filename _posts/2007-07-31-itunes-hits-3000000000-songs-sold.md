@@ -2,7 +2,7 @@
 title: iTunes hits 3,000,000,000 songs sold
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/197J3Hm
+permalink: /archive/itunes-hits-3000000000-songs-sold/
 bitly_url:
   - http://bit.ly/197J3Hm
 bitly_hash:

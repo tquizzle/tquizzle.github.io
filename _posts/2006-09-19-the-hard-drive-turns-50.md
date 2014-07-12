@@ -2,7 +2,7 @@
 title: The Hard Drive turns 50
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1aaRi75
+permalink: /archive/the-hard-drive-turns-50/
 bitly_url:
   - http://bit.ly/1aaRi75
 bitly_hash:

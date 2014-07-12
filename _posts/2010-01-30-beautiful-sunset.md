@@ -2,7 +2,7 @@
 title: Beautiful Sunset
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10hfR0o
+permalink: /archive/beautiful-sunset/
 image:
   - 
 bitly_url:

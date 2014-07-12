@@ -2,7 +2,7 @@
 title: SuperBowl Champ!
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11zSnh1
+permalink: /archive/superbowl-champ/
 bitly_url:
   - http://bit.ly/11zSnh1
 bitly_hash:

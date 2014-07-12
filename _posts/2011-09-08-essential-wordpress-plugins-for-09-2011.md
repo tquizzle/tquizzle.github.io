@@ -2,7 +2,7 @@
 title: 11 Essential WordPress Plugins for September 2011
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12KadW0
+permalink: /archive/essential-wordpress-plugins-for-09-2011/
 image:
   - http://www.tquizzle.com/uploads/2011/09/wordpress-plugins1.png
 pdrp_attributionLocation:

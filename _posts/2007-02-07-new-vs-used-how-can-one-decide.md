@@ -2,7 +2,7 @@
 title: 'New vs. Used &#8211; How can one decide?'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/128yFgL
+permalink: /archive/new-vs-used-how-can-one-decide/
 bitly_url:
   - http://bit.ly/128yFgL
 bitly_hash:

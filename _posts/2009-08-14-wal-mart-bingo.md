@@ -2,7 +2,7 @@
 title: Wal-Mart Bingo
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/197Nnqn
+permalink: /archive/wal-mart-bingo/
 bitly_url:
   - http://bit.ly/197Nnqn
 bitly_hash:

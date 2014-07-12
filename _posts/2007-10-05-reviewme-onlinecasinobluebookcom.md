@@ -2,7 +2,7 @@
 title: 'ReviewMe: OnlineCasinoBluebook.com'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/197HyJp
+permalink: /archive/reviewme-onlinecasinobluebookcom/
 bitly_url:
   - http://bit.ly/197HyJp
 bitly_hash:

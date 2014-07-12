@@ -2,7 +2,7 @@
 title: Ubuntu Pre-Install Growing
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/169C0w1
+permalink: /archive/ubuntu-pre-install-growing/
 bitly_url:
   - http://bit.ly/169C0w1
 bitly_hash:

@@ -2,7 +2,7 @@
 title: Baby Jesus gets GPS
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12K9iEZ
+permalink: /archive/baby-jesus-gets-gps/
 bitly_url:
   - http://bit.ly/12K9iEZ
 bitly_hash:

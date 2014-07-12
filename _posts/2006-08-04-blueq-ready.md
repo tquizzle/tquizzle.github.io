@@ -2,7 +2,7 @@
 title: BlueQ Ready
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11F9XBc
+permalink: /archive/blueq-ready/
 bitly_url:
   - http://bit.ly/11F9XBc
 bitly_hash:

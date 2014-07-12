@@ -2,7 +2,7 @@
 title: Nokia Lumia 1020 gets a September UK release date
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1apsJ5w
+permalink: /archive/nokia-lumia-1020-gets-a-september-uk-release-date/
 bitly_url:
   - http://bit.ly/1apsJ5w
 bitly_hash:

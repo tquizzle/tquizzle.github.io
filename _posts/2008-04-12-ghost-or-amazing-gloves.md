@@ -2,7 +2,7 @@
 title: Ghost or Amazing Gloves?
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1ad0Oqr
+permalink: /archive/ghost-or-amazing-gloves/
 bitly_url:
   - http://bit.ly/1ad0Oqr
 bitly_hash:

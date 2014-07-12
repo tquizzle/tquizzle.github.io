@@ -2,7 +2,7 @@
 title: 'ESX, VMware and Training&#8230;a reflection'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/19a2Hmc
+permalink: /archive/esx-vmware-and-training-reflection/
 bitly_url:
   - http://bit.ly/19a2Hmc
 bitly_hash:

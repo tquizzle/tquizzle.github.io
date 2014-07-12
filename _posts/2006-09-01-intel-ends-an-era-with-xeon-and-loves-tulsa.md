@@ -2,7 +2,7 @@
 title: Intel ends an era with Xeon and loves Tulsa
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/154qijT
+permalink: /archive/intel-ends-an-era-with-xeon-and-loves-tulsa/
 bitly_url:
   - http://bit.ly/154qijT
 bitly_hash:

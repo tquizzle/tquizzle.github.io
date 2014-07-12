@@ -2,7 +2,7 @@
 title: 'Words I Use&#8230;'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/13M6N0g
+permalink: /archive/words-i-use/
 bitly_url:
   - http://bit.ly/13M6N0g
 bitly_hash:

@@ -2,7 +2,7 @@
 title: 'Getting Hacked, Taking it down &#038; Ressurection'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/18FcPqb
+permalink: /archive/getting-hacked-taking-it-down-ressurection/
 bitly_url:
   - http://bit.ly/18FcPqb
 bitly_hash:

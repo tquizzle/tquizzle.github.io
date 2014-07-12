@@ -2,7 +2,7 @@
 title: Yahoo! comes up with nice adversary of GTalk
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11FeVgl
+permalink: /archive/yahoo-comes-up-with-nice-adversary-of-gtalk/
 bitly_url:
   - http://bit.ly/11FeVgl
 bitly_hash:

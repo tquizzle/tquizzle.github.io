@@ -2,7 +2,7 @@
 title: WordPress Most Popular Plugins (Infographic)
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/197U5g2
+permalink: /archive/wordpress-most-popular-plugins-infographic/
 pdrp_attributionLocation:
   - caption
 image:

@@ -2,7 +2,7 @@
 title: 29 Web Apps Perfect for the iPhone
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10lvqnT
+permalink: /archive/29-web-apps-perfect-for-the-iphone/
 bitly_url:
   - http://bit.ly/10lvqnT
 bitly_hash:

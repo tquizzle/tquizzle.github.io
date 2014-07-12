@@ -2,7 +2,7 @@
 title: Oklahoma Weather
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10na89k
+permalink: /archive/oklahoma-weather/
 bitly_url:
   - http://bit.ly/10na89k
 bitly_hash:

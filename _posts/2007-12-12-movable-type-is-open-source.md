@@ -2,7 +2,7 @@
 title: Movable Type is Open Source
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12K8Gzk
+permalink: /archive/movable-type-is-open-source/
 bitly_url:
   - http://bit.ly/12K8Gzk
 bitly_hash:

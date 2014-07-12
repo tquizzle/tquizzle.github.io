@@ -2,7 +2,7 @@
 title: Ring that Bell
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1bK1lhu
+permalink: /archive/ring-that-bell/
 bitly_url:
   - http://bit.ly/1bK1lhu
 bitly_hash:

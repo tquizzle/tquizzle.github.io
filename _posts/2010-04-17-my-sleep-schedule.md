@@ -2,7 +2,7 @@
 title: My Sleep Schedule
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10hfR0f
+permalink: /archive/my-sleep-schedule/
 image:
   - 
 bitly_url:

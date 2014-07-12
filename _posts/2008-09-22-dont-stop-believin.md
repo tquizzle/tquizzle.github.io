@@ -2,7 +2,7 @@
 title: 'Don&#8217;t Stop Believin&#8217;'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/157MpGr
+permalink: /archive/dont-stop-believin/
 bitly_url:
   - http://bit.ly/157MpGr
 bitly_hash:

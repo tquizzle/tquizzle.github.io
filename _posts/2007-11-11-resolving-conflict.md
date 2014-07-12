@@ -2,7 +2,7 @@
 title: Resolving Conflict
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/13TAAnM
+permalink: /archive/resolving-conflict/
 bitly_url:
   - http://bit.ly/13TAAnM
 bitly_hash:

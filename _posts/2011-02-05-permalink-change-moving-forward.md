@@ -2,7 +2,7 @@
 title: 'Permalink Change &#8211; Moving Forward'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12K83FX
+permalink: /archive/permalink-change-moving-forward/
 image:
   - 
 bitly_url:

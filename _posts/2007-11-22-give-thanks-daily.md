@@ -2,7 +2,7 @@
 title: Give Thanks Daily
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1aaTgEH
+permalink: /archive/give-thanks-daily/
 bitly_url:
   - http://bit.ly/1aaTgEH
 bitly_hash:

@@ -2,7 +2,7 @@
 title: Get 5 GB of free Storage with Windows SkyDrive
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1aaOmaF
+permalink: /archive/get-5-gb-of-free-storage-with-windows-skydrive/
 bitly_url:
   - http://bit.ly/1aaOmaF
 bitly_hash:

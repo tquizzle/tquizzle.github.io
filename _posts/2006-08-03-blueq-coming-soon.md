@@ -2,7 +2,7 @@
 title: BlueQ Coming Soon
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11zNVif
+permalink: /archive/blueq-coming-soon/
 bitly_url:
   - http://bit.ly/11zNVif
 bitly_hash:

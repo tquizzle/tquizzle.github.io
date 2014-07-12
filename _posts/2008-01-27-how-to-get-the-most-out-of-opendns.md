@@ -2,7 +2,7 @@
 title: How to get the most out of OpenDNS
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11R8NpE
+permalink: /archive/how-to-get-the-most-out-of-opendns/
 bitly_url:
   - http://bit.ly/11R8NpE
 bitly_hash:

@@ -2,7 +2,7 @@
 title: 5 Free Screencasting Apps for Creating Video Tutorials
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/18GImrQ
+permalink: /archive/5-free-screencasting-apps-for-creating-video-tutorials/
 bitly_url:
   - http://bit.ly/18GImrQ
 bitly_hash:

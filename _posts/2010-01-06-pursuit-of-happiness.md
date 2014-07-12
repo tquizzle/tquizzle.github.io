@@ -2,7 +2,7 @@
 title: Pursuit of Happiness
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11zS5GW
+permalink: /archive/pursuit-of-happiness/
 bitly_url:
   - http://bit.ly/11zS5GW
 bitly_hash:

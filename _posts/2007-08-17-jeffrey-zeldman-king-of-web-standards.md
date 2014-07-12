@@ -2,7 +2,7 @@
 title: 'Jeffrey Zeldman: King of Web Standards'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11N0Tu8
+permalink: /archive/jeffrey-zeldman-king-of-web-standards/
 bitly_url:
   - http://bit.ly/11N0Tu8
 bitly_hash:

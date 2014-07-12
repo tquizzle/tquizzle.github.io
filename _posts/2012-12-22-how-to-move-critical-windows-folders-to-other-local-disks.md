@@ -2,7 +2,7 @@
 title: How To Move Critical Windows Folders to Other Local Disks
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12KaZCs
+permalink: /archive/how-to-move-critical-windows-folders-to-other-local-disks/
 pdrp_attributionLocation:
   - caption
 image:

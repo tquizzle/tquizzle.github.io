@@ -2,7 +2,7 @@
 title: '10 R&#8217;s to Success'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1bVXAW8
+permalink: /archive/10-rs-to-success/
 bitly_url:
   - http://bit.ly/1bVXAW8
 bitly_hash:

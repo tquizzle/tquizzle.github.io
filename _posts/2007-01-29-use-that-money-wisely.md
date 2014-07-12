@@ -2,7 +2,7 @@
 title: Use that money wisely
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/13TAxs8
+permalink: /archive/use-that-money-wisely/
 bitly_url:
   - http://bit.ly/13TAxs8
 bitly_hash:

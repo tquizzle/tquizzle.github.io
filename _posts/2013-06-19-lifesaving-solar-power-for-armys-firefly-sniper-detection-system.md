@@ -2,7 +2,7 @@
 title: Lifesaving Solar Power For Army’s “Firefly” Sniper Detection System
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/14i5maq
+permalink: /archive/lifesaving-solar-power-for-armys-firefly-sniper-detection-system/
 image:
   - http://i1.wp.com/cleantechnica.com/files/2013/06/Army-solar-power-system.jpg?resize=500%2C368
 quote-author:

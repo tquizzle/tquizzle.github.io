@@ -2,7 +2,7 @@
 title: Web-Apps for Students
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/13TAxbu
+permalink: /archive/web-apps-for-students/
 bitly_url:
   - http://bit.ly/13TAxbu
 bitly_hash:

@@ -2,7 +2,7 @@
 title: 'I am The Gathering &#8211; Ben Hamilton'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10hfSBz
+permalink: /archive/i-am-the-gathering-ben-hamilton/
 image:
   - 
 bitly_url:

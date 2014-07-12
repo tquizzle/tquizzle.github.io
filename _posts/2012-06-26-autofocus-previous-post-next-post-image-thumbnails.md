@@ -2,7 +2,7 @@
 title: AutoFocus Previous Post / Next Post Image Thumbnails
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12KdQv3
+permalink: /archive/autofocus-previous-post-next-post-image-thumbnails/
 pdrp_attributionLocation:
   - end
 image:

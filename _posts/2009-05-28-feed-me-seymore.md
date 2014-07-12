@@ -2,7 +2,7 @@
 title: Feed Me Seymore
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/17PWiif
+permalink: /archive/feed-me-seymore/
 bitly_url:
   - http://bit.ly/17PWiif
 bitly_hash:

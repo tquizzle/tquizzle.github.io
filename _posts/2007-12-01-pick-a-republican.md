@@ -2,7 +2,7 @@
 title: Pick a Republican
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12K9CDV
+permalink: /archive/pick-a-republican/
 bitly_url:
   - http://bit.ly/12K9CDV
 bitly_hash:

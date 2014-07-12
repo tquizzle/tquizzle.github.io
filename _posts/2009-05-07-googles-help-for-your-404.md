@@ -2,7 +2,7 @@
 title: 'Google&#8217;s Help for your 404'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11DTfCr
+permalink: /archive/googles-help-for-your-404/
 bitly_url:
   - http://bit.ly/11DTfCr
 bitly_hash:

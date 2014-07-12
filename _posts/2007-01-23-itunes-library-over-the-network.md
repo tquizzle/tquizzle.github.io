@@ -2,7 +2,7 @@
 title: iTunes library over the Network
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/14jnikS
+permalink: /archive/itunes-library-over-the-network/
 bitly_url:
   - http://bit.ly/14jnikS
 bitly_hash:

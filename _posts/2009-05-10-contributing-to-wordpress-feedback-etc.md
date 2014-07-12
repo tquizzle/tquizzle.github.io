@@ -2,7 +2,7 @@
 title: 'Contributing to WordPress &#8211; Feedback, etc&#8230;'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/ZPidkI
+permalink: /archive/contributing-to-wordpress-feedback-etc/
 bitly_url:
   - http://bit.ly/ZPidkI
 bitly_hash:

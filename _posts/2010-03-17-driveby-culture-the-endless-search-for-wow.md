@@ -2,7 +2,7 @@
 title: 'Driveby Culture &#038; the Endless Search for Wow'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11Lz3l4
+permalink: /archive/driveby-culture-the-endless-search-for-wow/
 image:
   - 
 bitly_url:

@@ -2,7 +2,7 @@
 title: There is a War Going on for Your Mind
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10hfRgK
+permalink: /archive/there-is-a-war-going-on-for-your-mind/
 image:
   - 
 bitly_url:

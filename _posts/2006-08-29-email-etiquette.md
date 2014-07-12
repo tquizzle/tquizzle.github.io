@@ -2,7 +2,7 @@
 title: Email Etiquette
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/197HY2t
+permalink: /archive/email-etiquette/
 bitly_url:
   - http://bit.ly/197HY2t
 bitly_hash:

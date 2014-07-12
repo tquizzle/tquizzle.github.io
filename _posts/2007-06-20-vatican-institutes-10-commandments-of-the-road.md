@@ -2,7 +2,7 @@
 title: Vatican Institutes 10 Commandments of the Road
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/197L869
+permalink: /archive/vatican-institutes-10-commandments-of-the-road/
 bitly_url:
   - http://bit.ly/197L869
 bitly_hash:

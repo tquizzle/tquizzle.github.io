@@ -2,7 +2,7 @@
 title: iJealousy
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11Fc341
+permalink: /archive/ijealousy/
 bitly_url:
   - http://bit.ly/11Fc341
 bitly_hash:

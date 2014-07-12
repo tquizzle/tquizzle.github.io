@@ -2,7 +2,7 @@
 title: Buy MMO Accounts
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/18GLc09
+permalink: /archive/buy-mmo-accounts/
 bitly_url:
   - http://bit.ly/18GLc09
 bitly_hash:

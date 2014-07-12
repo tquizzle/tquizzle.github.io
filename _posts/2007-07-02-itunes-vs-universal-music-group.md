@@ -2,7 +2,7 @@
 title: iTunes vs. Universal Music Group
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/197G5Ts
+permalink: /archive/itunes-vs-universal-music-group/
 bitly_url:
   - http://bit.ly/197G5Ts
 bitly_hash:

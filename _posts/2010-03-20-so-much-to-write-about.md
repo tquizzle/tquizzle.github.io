@@ -2,7 +2,7 @@
 title: So much to write about
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10hfR0k
+permalink: /archive/so-much-to-write-about/
 image:
   - 
 bitly_url:

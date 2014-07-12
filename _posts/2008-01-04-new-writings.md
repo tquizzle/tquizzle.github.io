@@ -2,7 +2,7 @@
 title: New Writings
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/197H06m
+permalink: /archive/new-writings/
 bitly_url:
   - http://bit.ly/197H06m
 bitly_hash:

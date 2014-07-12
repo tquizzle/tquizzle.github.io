@@ -2,7 +2,7 @@
 title: How to Protect Ourselves and Growing Children from Electromagnetic Fields
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1fIlEC9
+permalink: /archive/protect-ourselves-growing-children-electromagnetic-fields/
 bitly_url:
   - http://bit.ly/1fIlEC9
 bitly_hash:

@@ -2,7 +2,7 @@
 title: New Accord gets over 60mpg
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1211Cqm
+permalink: /archive/new-accord-gets-over-60mpg/
 bitly_url:
   - http://bit.ly/1211Cqm
 bitly_hash:

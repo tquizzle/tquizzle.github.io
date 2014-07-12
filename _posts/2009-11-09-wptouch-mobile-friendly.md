@@ -2,7 +2,7 @@
 title: 'WPTouch &#8211; Mobile Friendly'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11NUeTD
+permalink: /archive/wptouch-mobile-friendly/
 image:
   - 
 bitly_url:

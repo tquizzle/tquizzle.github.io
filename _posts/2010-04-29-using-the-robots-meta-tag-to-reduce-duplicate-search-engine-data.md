@@ -2,7 +2,7 @@
 title: Using the Robots Meta Tag to Reduce Duplicate Search Engine Data
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10hfR0m
+permalink: /archive/using-the-robots-meta-tag-to-reduce-duplicate-search-engine-data/
 image:
   - 
 pdrp_attributionLocation:

@@ -2,7 +2,7 @@
 title: Oklahoma Weather pt. 2
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10na89h
+permalink: /archive/oklahoma-weather-pt-2/
 bitly_url:
   - http://bit.ly/10na89h
 bitly_hash:

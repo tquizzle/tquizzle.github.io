@@ -2,7 +2,7 @@
 title: Creating Zen Habits
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/17MxrM4
+permalink: /archive/creating-zen-habits/
 bitly_url:
   - http://bit.ly/17MxrM4
 bitly_hash:

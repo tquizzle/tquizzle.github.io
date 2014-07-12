@@ -2,7 +2,7 @@
 title: Long Pause
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/19ahLQX
+permalink: /archive/long-pause/
 bitly_url:
   - http://bit.ly/19ahLQX
 bitly_hash:

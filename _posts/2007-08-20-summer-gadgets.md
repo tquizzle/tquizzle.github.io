@@ -2,7 +2,7 @@
 title: Summer Gadgets
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/13OmR1C
+permalink: /archive/summer-gadgets/
 bitly_url:
   - http://bit.ly/13OmR1C
 bitly_hash:

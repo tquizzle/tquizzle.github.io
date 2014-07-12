@@ -2,7 +2,7 @@
 title: DD-WRT Finally
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12K7UlW
+permalink: /archive/dd-wrt-finally/
 pdrp_attributionLocation:
   - end
 image:

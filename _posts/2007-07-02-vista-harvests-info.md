@@ -2,7 +2,7 @@
 title: Vista Harvests Info
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1aaOU0h
+permalink: /archive/vista-harvests-info/
 bitly_url:
   - http://bit.ly/1aaOU0h
 bitly_hash:

@@ -2,7 +2,7 @@
 title: 'PGA &#8211; Tulsa Style'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/10hirDz
+permalink: /archive/pga-tulsa-style/
 bitly_url:
   - http://bit.ly/10hirDz
 bitly_hash:

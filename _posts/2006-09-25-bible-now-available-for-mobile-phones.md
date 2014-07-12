@@ -2,7 +2,7 @@
 title: Bible now available for Mobile Phones
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11zS2uE
+permalink: /archive/bible-now-available-for-mobile-phones/
 bitly_url:
   - http://bit.ly/11zS2uE
 bitly_hash:

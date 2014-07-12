@@ -2,7 +2,7 @@
 title: Guerrilla Gardening
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11LAuA3
+permalink: /archive/guerrilla-gardening/
 embed:
   - |
     <object id="otvPlayer" width="400" height="268">

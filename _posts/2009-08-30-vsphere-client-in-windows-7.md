@@ -2,7 +2,7 @@
 title: vSphere Client in Windows 7
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12KaZCw
+permalink: /archive/vsphere-client-in-windows-7/
 image:
   - 
 bitly_url:

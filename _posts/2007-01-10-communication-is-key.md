@@ -2,7 +2,7 @@
 title: Communication is Key
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/13OtMHX
+permalink: /archive/communication-is-key/
 bitly_url:
   - http://bit.ly/13OtMHX
 bitly_hash:

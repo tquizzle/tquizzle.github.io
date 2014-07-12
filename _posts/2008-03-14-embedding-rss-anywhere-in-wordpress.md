@@ -2,7 +2,7 @@
 title: Embedding RSS Anywhere in WordPress
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11zMsbT
+permalink: /archive/embedding-rss-anywhere-in-wordpress/
 pdrp_attributionLocation:
   - end
 image:

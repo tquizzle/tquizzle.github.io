@@ -2,7 +2,7 @@
 title: 'New Plugin: Twitter Links Plus+'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/199wawF
+permalink: /archive/new-plugin-twitter-links-plus/
 bitly_url:
   - http://bit.ly/199wawF
 bitly_hash:

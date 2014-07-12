@@ -2,7 +2,7 @@
 title: 'Home Again, Home Again &#8211; Vegas Wrap-Up'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/18FdOXF
+permalink: /archive/home-again-home-again-vegas-wrap-up/
 bitly_url:
   - http://bit.ly/18FdOXF
 bitly_hash:

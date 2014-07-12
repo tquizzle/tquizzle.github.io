@@ -2,7 +2,7 @@
 title: 'Tulsa Ice Storm &#8211; December 2007'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11OOKYK
+permalink: /archive/tulsa-ice-storm-december-2007/
 bitly_url:
   - http://bit.ly/11OOKYK
 bitly_hash:

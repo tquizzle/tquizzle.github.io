@@ -2,7 +2,7 @@
 title: 5 Things Geeks Must Do Before Vacationing
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/16aFiPC
+permalink: /archive/5-things-geeks-must-do-before-vacationing/
 bitly_url:
   - http://bit.ly/16aFiPC
 bitly_hash:

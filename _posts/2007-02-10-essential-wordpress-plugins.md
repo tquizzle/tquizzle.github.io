@@ -2,7 +2,7 @@
 title: Essential WordPress Plugins
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/11MZ0NW
+permalink: /archive/essential-wordpress-plugins/
 bitly_url:
   - http://bit.ly/11MZ0NW
 bitly_hash:

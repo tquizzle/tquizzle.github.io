@@ -2,7 +2,7 @@
 title: God Bless the Blinkers
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/197FQry
+permalink: /archive/god-bless-the-blinkers/
 bitly_url:
   - http://bit.ly/197FQry
 bitly_hash:

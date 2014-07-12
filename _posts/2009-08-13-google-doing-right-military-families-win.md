@@ -2,7 +2,7 @@
 title: 'Google Doing Right &#8211; Military Families Win'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12KbNaq
+permalink: /archive/google-doing-right-military-families-win/
 bitly_url:
   - http://bit.ly/12KbNaq
 bitly_hash:

@@ -2,7 +2,7 @@
 title: 'Thirteen Blog Clich&eacute;s'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12Mpm9x
+permalink: /archive/thirteen-blog-clichs/
 bitly_url:
   - http://bit.ly/12Mpm9x
 bitly_hash:

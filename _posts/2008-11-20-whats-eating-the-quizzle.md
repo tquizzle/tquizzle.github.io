@@ -2,7 +2,7 @@
 title: 'What&#8217;s Eating the Quizzle?'
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1aaOTJD
+permalink: /archive/whats-eating-the-quizzle/
 bitly_url:
   - http://bit.ly/1aaOTJD
 bitly_hash:

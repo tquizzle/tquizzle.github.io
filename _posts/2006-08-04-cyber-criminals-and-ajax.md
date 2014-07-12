@@ -2,7 +2,7 @@
 title: Cyber-criminals and Ajax
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/1bKvg9l
+permalink: /archive/cyber-criminals-and-ajax/
 bitly_url:
   - http://bit.ly/1bKvg9l
 bitly_hash:

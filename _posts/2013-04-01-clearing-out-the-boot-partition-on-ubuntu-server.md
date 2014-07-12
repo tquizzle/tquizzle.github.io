@@ -2,7 +2,7 @@
 title: Clearing out the /boot partition on Ubuntu Server
 author: TQuizzle
 layout: post
-permalink: http://bit.ly/12K6Iil
+permalink: /archive/clearing-out-the-boot-partition-on-ubuntu-server/
 pdrp_attributionLocation:
   - caption
 image:
