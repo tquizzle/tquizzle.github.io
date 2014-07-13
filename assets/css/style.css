@@ -89,7 +89,6 @@ article .share .gplus:hover {
 
 article{
 	margin-bottom: 40px;
-	clear: left;
 }
 
 .article_body{
@@ -106,7 +105,9 @@ article{
 article {
 	padding: 0 5% 0;
 }
-
+article.home {
+	clear: left;
+}
 article.home div a, article.home pre a { color: #2c3e50; }
 article.home div a:hover, article.home pre a:hover { color: #2c3e50; text-decoration: none; }
 article img { max-width: 100%; }
@@ -135,7 +136,7 @@ article.home h4 a:hover {
 	color: #e74c3c;
 }
 
-article div.sharedaddy { display: none;}
+div.sharedaddy { display: none;}
 
 .author .author-image {
   float: left;
