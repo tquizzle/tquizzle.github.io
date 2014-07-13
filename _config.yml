@@ -1,8 +1,9 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# visit 
+ for more settings
 
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
-highlighter: true
+highlighter: pygments
 markdown: kramdown
 url: "http://www.tquizzle.com"
 permalink: /archive/:title/
@@ -11,6 +12,7 @@ title: TQuizzle.com
 google_analytics_key: UA-253329-3
 description: "ramblings, utterances, nonsense."
 BASE_PATH: http://www.tquizzle.com
+timezone: America/Chicago
 
 
 defaults:
