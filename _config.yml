@@ -10,7 +10,7 @@ exclude: [LICENSE, CNAME, README.md, .gitignore]
 title: TQuizzle.com
 google_analytics_key: UA-253329-3
 description: "ramblings, utterances, nonsense."
-BASE_PATH: www.tquizzle.com
+BASE_PATH: http://www.tquizzle.com
 
 
 defaults:
