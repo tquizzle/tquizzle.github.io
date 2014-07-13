@@ -3,7 +3,7 @@
 
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
-highlighter: pygments
+highlighter: true
 markdown: kramdown
 url: "http://www.tquizzle.com"
 permalink: /archive/:title/
