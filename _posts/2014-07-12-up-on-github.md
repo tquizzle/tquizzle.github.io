@@ -4,7 +4,7 @@ author: TQuizzle
 layout: post
 permalink: /archive/up-on-github/
 image:
-  - 
+  - http://www.jabenterprises.org/Images/work/github-logo.png
 categories:
   - Normal
 ---
