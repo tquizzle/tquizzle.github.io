@@ -37,6 +37,17 @@ tags:
 
 This is the kind of thinking and marketing that can change our world, if we let it.
 
+<object id="otvPlayer" width="400" height="268">
+    <param name="movie" value="http://cdn.abclocal.go.com/static/flash/embeddedPlayer/swf/otvEmLoader.swf?version=&station=kabc&section=&mediaId=7378658&cdnRoot=http://cdn.abclocal.go.com&webRoot=http://abclocal.go.com&site=" ></param>
+    <param name="allowScriptAccess" value="always"></param>
+    <param name="allowNetworking" value="all"></param>
+    <param name="allowFullScreen" value="true"></param>
+    <embed id="otvPlayer" width="400" height="268" type="application/x-shockwave-flash" 
+    	allowscriptaccess="always" allownetworking="all" allowfullscreen="true" 
+    	src="http://cdn.abclocal.go.com/static/flash/embeddedPlayer/swf/otvEmLoader.swf?version=&station=kabc&section=&mediaId=7378658&cdnRoot=http://cdn.abclocal.go.com&webRoot=http://abclocal.go.com&site=">
+    </embed>
+    </object>
+
 <div class="sharedaddy sd-sharing-enabled">
   <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
     <h3 class="sd-title">
