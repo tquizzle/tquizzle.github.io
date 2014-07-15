@@ -4,10 +4,11 @@ author: TQuizzle
 layout: post
 permalink: /archive/up-on-github/
 image:
-  - http://www.jabenterprises.org/Images/work/github-logo.png
+  - 
 categories:
   - Normal
 ---
+![Github](http://www.jabenterprises.org/Images/work/github-logo.png)
 I finally did it. I finally got around to putting TQuizzle.com up on GitHub.
 It wasn't without some issues, but I can finally say that I did it.
 
