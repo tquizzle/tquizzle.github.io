@@ -133,158 +133,20 @@ I found that Microsoft® isn&#8217;t following those symlinks properly when it c
 Google is my friend and I found out what needed to change in order for security updates to continue.  
 Basically, there are a few registry keys you&#8217;ll need to point to the &#8220;real&#8221; location of the Program Files directory because it wont follow the junction link.
 
-Make these changes:  
-HKEY\_LOCAL\_MACHINE&#92;SOFTWARE&#92;Microsoft&#92;Windows&#92;CurrentVersion&#92;
+Make these changes to:
+`HKEY_LOCAL\_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\`
 
-<div class="threecol-one">
-  <strong>Key Name</strong>
-</div>
+| Key Name | Old Data Value | New Data Value |
+| -------- | -------------- | -------------- |
+| CommonFilesDir | C:&#92;Program Files&#92;Common Files | D:&#92;Program Files&#92;Common Files |
+| CommonFilesDir (x86) | C:&#92;Program Files (x86)&#92;Common Files |  D:&#92;Program Files (x86)&#92;Common Files|
+| CommonW6432Dir | C:&#92;Program Files&#92;Common Files | D:&#92;Program Files&#92;Common Files |
+| ProgramFilesDir | C:&#92;Program Files | D:&#92;Program Files |
+| ProgramFilesDir (x86) | C:&#92;Program Files (x86) | D:&#92;Program Files (x86) |
+| ProgramW6432Dir | C:&#92;Program Files | D:&#92;Program Files |
 
-<div class="threecol-one">
-  <strong>Old Data Value</strong>
-</div>
 
-<div class="threecol-one last">
-  <strong>New Data Value</strong>
-</div>
-
-* * *
-
-<div class="threecol-one bold">
-  CommonFilesDir
-</div>
-
-<div class="threecol-one bold">
-  C:&#92;Program Files&#92;Common Files
-</div>
-
-<div class="threecol-one last bold">
-  D:&#92;Program Files&#92;Common Files
-</div>
-
-<div class="threecol-one bold">
-  CommonFilesDir (x86)
-</div>
-
-<div class="threecol-one bold">
-  C:&#92;Program Files (x86)&#92;Common Files
-</div>
-
-<div class="threecol-one last bold">
-  D:&#92;Program Files (x86)&#92;Common Files
-</div>
-
-<div class="threecol-one bold">
-  CommonW6432Dir
-</div>
-
-<div class="threecol-one bold">
-  C:&#92;Program Files&#92;Common Files
-</div>
-
-<div class="threecol-one last bold">
-  D:&#92;Program Files&#92;Common Files
-</div>
-
-<div class="threecol-one bold">
-  ProgramFilesDir
-</div>
-
-<div class="threecol-one bold">
-  C:&#92;Program Files
-</div>
-
-<div class="threecol-one last bold">
-  D:&#92;Program Files
-</div>
-
-<div class="threecol-one bold">
-  ProgramFilesDir (x86)
-</div>
-
-<div class="threecol-one bold">
-  C:&#92;Program Files (x86)
-</div>
-
-<div class="threecol-one last bold">
-  D:&#92;Program Files (x86)
-</div>
-
-<div class="threecol-one bold">
-  ProgramW6432Dir
-</div>
-
-<div class="threecol-one bold">
-  C:&#92;Program Files
-</div>
-
-<div class="threecol-one last bold">
-  D:&#92;Program Files
-</div>
 
 After these changes are made, Windows should be able to update successfully.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-twitter">
-          <a rel="nofollow" class="share-twitter sd-button share-icon" href="http://www.tquizzle.com/archive/how-to-move-critical-windows-folders-to-other-local-disks/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-11569"><span>Twitter</span></a>
-        </li>
-        <li class="share-google-plus-1">
-          <a rel="nofollow" class="share-google-plus-1 sd-button share-icon" href="http://www.tquizzle.com/archive/how-to-move-critical-windows-folders-to-other-local-disks/?share=google-plus-1" title="Click to share on Google+" id="sharing-google-11569"><span>Google</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow" class="share-facebook sd-button share-icon" href="http://www.tquizzle.com/archive/how-to-move-critical-windows-folders-to-other-local-disks/?share=facebook" title="Share on Facebook" id="sharing-facebook-11569"><span>Facebook</span></a>
-        </li>
-        <li class="share-custom">
-          <a rel="nofollow" class="share-custom sd-button share-icon" href="http://www.tquizzle.com/archive/how-to-move-critical-windows-folders-to-other-local-disks/?share=custom-1371173110" title="Click to share"><span style="background-image:url(&quot;http://www.repost.us/wp-content/themes/repost-beta/repost-site/favicon.ico&quot;);">repost</span></a>
-        </li>
-        <li>
-          <a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-      
-      <div class="sharing-hidden">
-        <div class="inner" style="display: none;">
-          <ul>
-            <li class="share-linkedin">
-              <a rel="nofollow" class="share-linkedin sd-button share-icon" href="http://www.tquizzle.com/archive/how-to-move-critical-windows-folders-to-other-local-disks/?share=linkedin" title="Click to share on LinkedIn" id="sharing-linkedin-11569"><span>LinkedIn</span></a>
-            </li>
-            <li class="share-reddit">
-              <a rel="nofollow" class="share-reddit sd-button share-icon" href="http://www.tquizzle.com/archive/how-to-move-critical-windows-folders-to-other-local-disks/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-digg">
-              <a rel="nofollow" class="share-digg sd-button share-icon" href="http://www.tquizzle.com/archive/how-to-move-critical-windows-folders-to-other-local-disks/?share=digg" title="Click to Digg this post"><span>Digg</span></a>
-            </li>
-            <li class="share-stumbleupon">
-              <a rel="nofollow" class="share-stumbleupon sd-button share-icon" href="http://www.tquizzle.com/archive/how-to-move-critical-windows-folders-to-other-local-disks/?share=stumbleupon" title="Click to share on StumbleUpon"><span>StumbleUpon</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-email">
-              <a rel="nofollow" class="share-email sd-button share-icon" href="http://www.tquizzle.com/archive/how-to-move-critical-windows-folders-to-other-local-disks/?share=email" title="Click to email this to a friend"><span>Email</span></a>
-            </li>
-            <li class="share-print">
-              <a rel="nofollow" class="share-print sd-button share-icon" href="http://www.tquizzle.com/archive/how-to-move-critical-windows-folders-to-other-local-disks/" title="Click to print"><span>Print</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-end">
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
- [1]: http://i1.wp.com/www.tquizzle.com/uploads/2012/12/Moving-Users-and-Prog-Files.png
+[1]: http://i1.wp.com/www.tquizzle.com/uploads/2012/12/Moving-Users-and-Prog-Files.png
