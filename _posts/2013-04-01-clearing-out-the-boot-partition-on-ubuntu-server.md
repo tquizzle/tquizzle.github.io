@@ -35,8 +35,6 @@ Recently I had an issue where I could no longer update packages. The system was 
 
 After digging around on Google for a while, I found this little gem.
 
-```
-dpkg --get-selections|grep 'linux-image*'|awk '{print $1}'|egrep -v "linux-image-$(uname -r)|linux-image-generic" |while read n;do apt-get -y remove $n;done
-```
+<script src="https://gist.github.com/tquizzle/d5d3ecdab4f251347c01.js"></script>
 
 This finds all the linux-image that are in your /boot partition and one-by-one removes them.
