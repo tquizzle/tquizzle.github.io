@@ -21,14 +21,25 @@ I mean, just look at these photos! Does this look like a vicious animal? I'd be 
 
 
 ![](http://thechive.files.wordpress.com/2014/08/pitbulls-13.jpg)
+
 ![](http://thechive.files.wordpress.com/2014/08/pitbulls-9.jpg)
+
 ![](http://thechive.files.wordpress.com/2014/08/pitbulls-1.jpg)
+
 ![](http://thechive.files.wordpress.com/2014/08/pitbulls-3.jpg)
+
 ![](http://thechive.files.wordpress.com/2014/08/g3eu9ue.gif)
+
 ![](http://thechive.files.wordpress.com/2014/08/pitbulls-18.jpg)
+
 ![](http://thechive.files.wordpress.com/2014/08/h2wr5wr.gif)
+
 ![](http://thechive.files.wordpress.com/2014/08/pitbulls-8.jpg)
+
 ![](http://thechive.files.wordpress.com/2014/08/pitbulls-11.jpg)
+
 ![](http://thechive.files.wordpress.com/2014/08/pitbulls-14.jpg)
+
 ![](http://thechive.files.wordpress.com/2014/08/pitbulls-15.jpg)
+
 ![](http://thechive.files.wordpress.com/2014/08/pitbulls-10.jpg)
