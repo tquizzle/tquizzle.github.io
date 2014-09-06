@@ -162,6 +162,10 @@ a:visited { color: #205caa; }
   color: #818181;
 }
 
+article.home div img {
+	float:left;
+	padding: 4px 8px 4px 0px;
+}
 
 /* Post styles */
 /* ----------------------------------------------------------*/
